@@ -76,8 +76,3 @@ Specify the license under which these scripts are released (e.g., MIT, GPL-3.0, 
 John Mark Esplana
 ```
 
-### Notes:
-- **Flexibility**: Adjust the script filenames (`first_script.py` and `second_script.py`) in the documentation to match the actual filenames you use in your GitHub repository.
-- **Execution Instructions**: Make sure the instructions are clear on how to switch between scripts and manage the search parameters to cover the entire dataset you intend to collect.
-
-This documentation is ready to be pasted into your GitHub README.md. It provides a comprehensive guide to using your scripts, ensuring that users can follow the process and understand the project's scope and limitations.
