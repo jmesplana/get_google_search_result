@@ -19,7 +19,7 @@ def write_results_to_csv(results, filename):
             writer.writerow([title, url])
 
 def main():
-    company_query = "site:bezosearthfund.org/grants"
+    company_query = "site:xxxxx.org/grants"
     print(company_query)
     print(" ")
     results = []
